@@ -11,4 +11,7 @@
     <string name="file_permissions_did_not_work">Looks like something failed!</string>
     <string name="permission_available_external_storage">External storage permissions hav been granted. Files can now be accessed.</string>
 
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
